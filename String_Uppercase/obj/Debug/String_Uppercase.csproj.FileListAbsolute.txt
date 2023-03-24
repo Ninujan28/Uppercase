@@ -1,0 +1,8 @@
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\bin\Debug\String_Uppercase.exe.config
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\bin\Debug\String_Uppercase.exe
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\bin\Debug\String_Uppercase.pdb
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\obj\Debug\String_Uppercase.csproj.AssemblyReference.cache
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\obj\Debug\String_Uppercase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\obj\Debug\String_Uppercase.csproj.CoreCompileInputs.cache
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\obj\Debug\String_Uppercase.exe
+C:\Users\Ninujan\source\repos\String_Uppercase\String_Uppercase\obj\Debug\String_Uppercase.pdb
